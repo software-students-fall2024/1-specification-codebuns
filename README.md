@@ -4,7 +4,9 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+Hugo Bray - https://github.com/BringoJr
+
+(Insert ur names and gits here)
 
 ## Stakeholders
 
@@ -12,7 +14,7 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+An app for students or anyone else who struggles studying, which incentivises productive work by rewarding the user with bunnies to add to their forest.
 
 ## User Requirements
 
