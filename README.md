@@ -87,11 +87,8 @@ A little exercise to get started with the specification phase of the software de
 
 ![user story one](./UML-Stats.png)
 
-### User Story UML Two
-
-* "As a procrastinator, I want to feel a sense of urgency and importance when doing my tasks, so that I can focus better and stress less"
-
-![user story two]
+## Wireframe cdDiagrams
+[Figma Link to Wireframes](https://www.figma.com/design/cGfssq0dgAoQ815AAxkKvm/Project-1-Study-APP?node-id=0-1&t=08KAjFnLozGUm6bn-1)
 
 ## Clickable Prototype
 [Clickable Prototype](https://www.figma.com/proto/cGfssq0dgAoQ815AAxkKvm/Project-1-Study-APP?node-id=24-40&node-type=canvas&t=bi1DMLfB4yxG0cp8-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A139)
