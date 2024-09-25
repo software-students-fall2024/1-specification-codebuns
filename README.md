@@ -87,7 +87,7 @@ A little exercise to get started with the specification phase of the software de
 
 ![user story one](./UML-Stats.png)
 
-## Wireframe cdDiagrams
+## Wireframe Diagrams
 [Figma Link to Wireframes](https://www.figma.com/design/cGfssq0dgAoQ815AAxkKvm/Project-1-Study-APP?node-id=0-1&t=08KAjFnLozGUm6bn-1)
 
 ## Clickable Prototype
