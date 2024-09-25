@@ -4,11 +4,11 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-[Hugo Bray][https://github.com/BringoJr]
-[Sahar Bueno-Abdala][https://github.com/saharbueno]
-[Nuzhat Bushra][https://github.com/ntb5562]
-[Tamara Bueno][https://github.com/TamaraBuenoo]
-[Annabeth Gao][https://github.com/bellinimoon]
+[Hugo Bray](https://github.com/BringoJr)  
+[Sahar Bueno-Abdala](https://github.com/saharbueno)  
+[Nuzhat Bushra](https://github.com/ntb5562)  
+[Tamara Bueno](https://github.com/TamaraBuenoo)  
+[Annabeth Gao](https://github.com/bellinimoon)
 
 ## Stakeholders
 
@@ -19,30 +19,30 @@ A little exercise to get started with the specification phase of the software de
 
 ### User Needs
 
-#### Reward System for Achieving Goals
+#### 1. Reward System for Achieving Goals
 * Users need a sense of achievement. A reward system, such as unlocking a cute character or object (e.g., a cat, plant, etc.), will help users feel a sense of accomplishment after completing focused work.
 
-#### Simple, Easy-to-Use Interface
+#### 2. Simple, Easy-to-Use Interface
 * Users need an intuitive interface that simplifies setting a time for focused work without overcomplicating the process, making it easy to jump into their tasks.
 
-#### Tracking Progress
+#### 3. Tracking Progress
 * Users need a tracker that visually shows their progress, such as the total time they've focused or goals they've achieved. This helps them feel more engaged and encouraged to continue.
 
-#### Consequences for Not Focusing
+#### 4. Consequences for Not Focusing
 * Users may benefit from a system that creates a consequence for distractions or breaks in focus (e.g., losing a reward). This helps maintain accountability and nudges users to stick with their focus sessions.
 
 ### User Problems
 
-#### Lack of Motivation
+#### 1. Lack of Motivation
 * Users find it difficult to stay motivated, especially when the tasks they need to complete aren't enjoyable or rewarding. This leads to procrastination.
 
-#### Difficulty in Keeping Track of Tasks
+#### 2. Difficulty in Keeping Track of Tasks
 * Users often feel overwhelmed by the sheer number of tasks or responsibilities they need to juggle, leading to disorganization and a lack of focus.
 
-#### Low Accountability
+#### 3. Low Accountability
 * Users struggle with self-accountability, meaning they have trouble sticking to the goals they've set without external enforcement or reminders.
 
-#### No Visible Progress
+#### 4. No Visible Progress
 * Users often don't see the impact of their focused efforts in real-time, leading to frustration and demotivation when progress feels invisible or slow.
 
 ## Product Vision Statement
@@ -70,7 +70,6 @@ A little exercise to get started with the specification phase of the software de
 * As a distraction-prone individual, I want the app to include features that temporarily block notifications from other apps during my focus sessions, so that I can immerse myself fully in my studies without interruptions
 
 * As a reflective learner, I want to be able to see the amount of times I studied in certain time intervals, so I can decide where I need to improve with my study habits.
-
 
 ## Activity Diagrams
 
