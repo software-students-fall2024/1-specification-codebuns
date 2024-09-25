@@ -81,9 +81,9 @@ A little exercise to get started with the specification phase of the software de
 
 ## Activity Diagrams
 
-#### User Story UML One
+### User Story UML One
 
-"As a student, I want to visually track my progress on tasks with a daily/weekly/monthly view, showing the time spent on each task, so that I can feel accomplished when I hit my goals."
+* "As a student, I want to visually track my progress on tasks with a daily/weekly/monthly view, showing the time spent on each task, so that I can feel accomplished when I hit my goals."
 
 ![user story one](./UML-Stats.png)
 
